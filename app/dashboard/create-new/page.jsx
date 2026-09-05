@@ -11,7 +11,7 @@ function CreateNew() {
   };
   return (
     <div className="md:px-20">
-      <h2 className="font-bold text-4xl text-blue-500 text-center dark:text-lime-500">
+      <h2 className="font-bold text-4xl text-blue-500 text-center dark:text-lime-400">
         Create New
       </h2>
       <div className="mt-10 shadow-md p-10 dark:bg-gray-700 rounded-lg">
