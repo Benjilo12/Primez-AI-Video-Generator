@@ -27,7 +27,7 @@ function SelectTopic({ onUserSelect }) {
       <h2 className="font-bold text-2xl text-blue-600 dark:text-lime-400">
         Content
       </h2>
-      <p className="text-gray-700 dark:text-gray-300">
+      <p className="text-gray-700 dark:text-gray-400">
         What is the topic of your video
       </p>
       <Select
