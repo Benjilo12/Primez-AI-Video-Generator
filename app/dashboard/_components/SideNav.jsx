@@ -40,7 +40,7 @@ function SideNav() {
             <div
               className={`flex cursor-pointer items-center gap-3 rounded-md border border-transparent p-3 transition-colors hover:border-blue-200/60 hover:bg-blue-400/20 dark:hover:border-lime-300/20 dark:hover:bg-white/10 ${path === item.path ? "border-blue-300/50 bg-blue-400/30 dark:border-lime-300/30 dark:bg-lime-400/15" : ""}`}
             >
-              <item.icon className="w-7 h-7 text-pink-500 dark:text-lime-500" />
+              <item.icon className="w-7 h-7 text-pink-600 dark:text-lime-500" />
               <h2 className="font-bold ">{item.name}</h2>
             </div>
           </Link>
