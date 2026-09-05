@@ -24,7 +24,7 @@ function SelectTopic({ onUserSelect }) {
   const [selectedOption, setSelectedOption] = React.useState("");
   return (
     <div>
-      <h2 className="font-bold text-2xl text-blue-600 dark:text-lime-500">
+      <h2 className="font-bold text-2xl text-blue-600 dark:text-lime-400">
         Content
       </h2>
       <p className="text-gray-700 dark:text-gray-300">
