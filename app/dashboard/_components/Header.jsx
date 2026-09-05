@@ -13,7 +13,7 @@ function Header() {
       </div>
       <div className="flex gap-3 items-center">
         <ThemeToggle />
-        <Button className="bg-blue-600 dark:bg-lime-500 dark:text-white">
+        <Button className="bg-blue-600 dark:bg-lime-400 dark:text-white">
           Dashboard
         </Button>
         <UserButton />
